@@ -7,6 +7,4 @@ vim.g.mapleader = " "
 vim.opt.termguicolors = true
 vim.opt.listchars = "eol:~,tab:>.,trail:~,extends:>,precedes:<,space:_"
 vim.o.clipboard = "unnamedplus"
-vim.cmd [[colorscheme torte]]
-vim.opt.splitbelow = true
-vim.opt.splitright = true
+vim.cmd [[colorscheme gruvbox]]
