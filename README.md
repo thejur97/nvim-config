@@ -6,4 +6,4 @@
 - in packer.lua , :so and :PackerSync
 - prerequisite: ripgrep
 - prerequisite: ctags
-
+- git version 2.31.0
