@@ -2,7 +2,7 @@ vim.opt.guicursor = ""
 
 vim.opt.nu = true
 vim.opt.relativenumber = true
--- vim.opt.mouse = "a"
+vim.opt.mouse = ""
 vim.g.mapleader = " "
 vim.opt.termguicolors = true
 vim.opt.listchars = "eol:~,tab:>.,trail:~,extends:>,precedes:<,space:_"
