@@ -7,3 +7,8 @@
 - prerequisite: ripgrep
 - prerequisite: ctags
 - git version 2.31.0
+
+  ### some usefull tools
+
+  - chromaterm
+  - tmux
