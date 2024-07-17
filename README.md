@@ -7,6 +7,7 @@
 - prerequisite: ripgrep
 - prerequisite: ctags
 - git version 2.31.0
+- Install node(latest), npm and ccls
 
   ### some usefull tools
 
