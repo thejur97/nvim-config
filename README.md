@@ -7,7 +7,7 @@
 - prerequisite: ripgrep
 - prerequisite: ctags
 - git version 2.31.0
-- Install node(latest), npm and ccls
+- Install tmux-tpm and packer nvim
 
   ### some usefull tools
 
