@@ -6,6 +6,7 @@
 - in packer.lua , :so and :PackerSync
 - prerequisite: ripgrep
 - prerequisite: ctags
+- prerequisite: xclip
 - git version 2.31.0
 - Install tmux-tpm and packer nvim
 
