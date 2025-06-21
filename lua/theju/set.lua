@@ -15,3 +15,4 @@ vim.o.clipboard = "unnamedplus"
 vim.cmd [[colorscheme gruvbox8]]
 vim.g.netrw_bufsettings = 'noma nomod nu rnu nobl nowrap ro'
 vim.g.netrw_localcopydircmd = 'cp -r'
+vim.opt.tags = '.tags'

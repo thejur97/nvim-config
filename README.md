@@ -9,6 +9,7 @@
 - prerequisite: xclip
 - git version 2.31.0
 - Install tmux-tpm and packer nvim
+- Install universal-ctags
 
   ### some usefull tools
 
